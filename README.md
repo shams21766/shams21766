@@ -3,7 +3,7 @@
 Senior Software Engineer
 -------------
 
-I’m Shams Alizai, a passionate Full-Stack Web Developer with over 4 years of experience in building responsive and scalable web applications using the MERN stack (MongoDB, Express.js, React.js, Node.js). I specialize in crafting clean, user-friendly interfaces with React and Tailwind CSS, and developing secure, high-performance backends with Node.js and Express.js. I love solving real-world problems through code and continuously improving my skills to stay aligned with modern web technologies.
+I’m Shams Alizai, a Senior Full-Stack Developer with over 8 years of experience designing and building scalable, secure, and high-performance web applications. I specialize in the MERN stack (MongoDB, Express.js, React.js, Node.js), alongside modern front-end and back-end technologies that deliver robust, user-friendly solutions for clients across various industries.
 
 * ✉️  You can contact me at [shams21766@gmail.com](mailto:shams21766@gmail.com)
 * 🚀  Former Software Engineer on [Idevelopgroup](http://idevelopgroup.com)
